@@ -1,15 +1,15 @@
-# vicidial-connector-sequelize
+# sequelize-nodejs-integration
 
 ## Introduction
 
-> ViciDial Connector Project Using Sequelize.
+> Nodejs Integration Project Using Sequelize.
 
 ## Installation
 
 Initially clone the project from this repository.
 
 ```sh
-$ https://github.com/vizchamz/vicidial-connector-sequelize.git
+$ https://github.com/vizchamz/sequelize-nodejs-integration.git
 ```
 
 Please refer following steps to run the project in local or development
