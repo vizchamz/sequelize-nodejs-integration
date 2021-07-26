@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> Nodejs Integration Project Using Sequelize.
+> Nodejs Sequelize Integration Project.
 
 ## Installation
 
